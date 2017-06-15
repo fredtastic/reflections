@@ -1,0 +1,23 @@
+How does diff let you see differences? 
+The diff told me what lines were new versus old.
+
+How can having easy access to the entire history of a file make me a more efficient programmer?
+I can revert mistakes.  I can compare mistakes.  I can revert to different versions.
+
+Version Control is any system that lets you control versions of files.
+
+What are the advantages and disadvanatages of a manual commit:
+- Advantages are the sizes are just right, and human-atomic.
+- Disadvantages are that it's not atomic and you can forget.
+
+Why do some VCS allow multiple files in a commit (Git) while others Google Docs treats files separately?
+- Git works with code in which logical atoms can span multiple files; whereas Google docs each file is independent.
+
+How can you use git log and git diff to view file history?
+Git log outputs all the changes.  Git diff outputs the diff between any two seleected changes.
+
+How does having version control make you more confident to make changes?
+If I make a change that messes things up I can revert it.
+
+How do I want to use git?
+- To develop an Android app
