@@ -14,11 +14,15 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+- If I want two versions of the game.
 
 How do the diagrams help you visualize the branch structure?
+- I can see which changes are made in what serires.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+- Merging two branches makes a unified set of files that reflects both flow of changes.  We represent it in the diagram as a merge because the two flows come together.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+- Automatic merging is less work.  Manual merging ensures more often that the merges make programmatic sense.
